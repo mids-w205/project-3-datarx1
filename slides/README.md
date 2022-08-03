@@ -1,4 +1,4 @@
 # Slides
 
-Please place a PDF file of your slides in this directory.
+PDF of presentation of application of NoSQL databases in the expansion of AGM
 

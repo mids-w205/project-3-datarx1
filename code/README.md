@@ -1,3 +1,3 @@
 # Code
 
-Please place your code for the project in this directory.
+Application of NoSQL databases in expansion of AGM

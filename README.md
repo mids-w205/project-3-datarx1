@@ -2,11 +2,11 @@
 ### Master of Information and Data Science Program (MIDS)
 ### w205 - Fundamentals of Data Engineering
 
-* Year:
-* Semester:
-* Section:
-* Instructor:
+* Year:2022
+* Semester:Summer
+* Section:04
+* Instructor:Vinicio De Sola
 * Team Members:
-    * team member 1
-    * team member 2
-    * team member 3
+    * Amanuel Tollosa
+    * Mick Rejniak
+    * Stephen Tan
